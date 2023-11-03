@@ -11,7 +11,7 @@ A passionate Computer Science Engineering Student from India
 
 <a href="https://www.github.com/maazdev2003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/maazdev2003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+<img src="https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif" />
 ### Skills
 
 
