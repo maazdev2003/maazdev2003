@@ -6,7 +6,7 @@ A passionate Computer Science Engineering Student from India
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [maazahmedrisaldare@gmail.com](mailto:maazahmedrisaldare@gmail.com)
-* 🧠  I'm learning 3rd Year Engineering
+* 🧠  I'm learning final-Year Engineering
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/maazdev2003" target="_blank" rel="noreferrer"><img
